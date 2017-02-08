@@ -7,18 +7,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "art": "^0.10.1",
-    "d3": "^4.2.7",
-    "d3-array": "^1.0.0",
-    "d3-axis": "^1.0.0",
-    "d3-format": "^1.0.0",
-    "d3-path": "^1.0.0",
-    "d3-scale": "^1.0.0",
-    "d3-shape": "^1.0.0",
     "react": "15.4.2",
     "react-native": "^0.39.0",
     "react-native-nav": "^1.1.4",
-    "react-native-progress-bar": "^0.1.2",
     "react-native-router-flux": "^3.37.0",
     "react-native-svg": "^4.4.0",
     "react-native-tabbar": "^1.0.0"

@@ -44,8 +44,6 @@ var right_play = require('./src/images/right-play.png');
 var line = require('./src/images/line.png');
 
 import Tabbar from 'react-native-tabbar'
-import AreaSpline from './src/charts/AreaSpline';
-import Pie from './src/charts/Pie';
 import Theme from './src/theme';
 import data from './src/resources/data';
 
